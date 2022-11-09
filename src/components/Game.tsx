@@ -77,7 +77,7 @@ export function Game({ data, setFirstTeamPoints, setSecondTeamPoints, onGuessCon
         />
 
         <X color={colors.gray[300]} size={sizes[6]} />
-        {console.log(data.guess)}
+        {/* {console.log(data.guess)} */}
         <Team
           code={data.secondTeamCountryCode}
           position="left"
