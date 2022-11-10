@@ -1,9 +1,10 @@
 <div align="center" id="top"> 
   <img src="https://github.com/gi-carnaval/frontend-nlw-copa/blob/master/src/assets/logo.svg" alt="NLW COPA" />
+  &#xa0;  
+</div>
+<div align="center" id="top"> 
   <img src="https://github.com/gi-carnaval/frontend-nlw-copa/blob/master/src/assets/app-nlw-copa-preview.png" alt="NLW COPA" />
-
   &#xa0;
-
 </div>
 
 <h1 align="center">⚽️ NLW Copa 2022 | Projeto Mobile 📱</h1>
